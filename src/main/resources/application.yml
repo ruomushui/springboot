@@ -1,0 +1,15 @@
+server:
+  port: 8082
+
+person:
+  lastName: 张三
+  age: 18
+  boss: false
+  birth: 2020/08/09
+  maps: {k1: v1,k2: v2}
+  lists:
+    - lisi
+    - zhaoliu
+  dog:
+    name: xiaogou
+    age: 1
